@@ -9,6 +9,7 @@ Version control like Git stores a copy of your past work for you, with the chang
 
 ## 1. Set up your environment
 
-[Visual Studio Code download](https://code.visualstudio.com/Download)
+[Visual Studio Code download](https://vscodium.com/)
 
 [Git download](https://git-scm.com/downloads)
+
