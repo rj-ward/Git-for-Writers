@@ -8,8 +8,7 @@ All of your files live on your device first and foremost. No internet? No proble
 Version control like Git stores a copy of your past work for you, with the changes you've made as you've gone along highlighted for comparison.
 
 ## 1. Set up your environment
-
-[Visual Studio Code download](https://vscodium.com/)
-
-[Git download](https://git-scm.com/downloads)
-
+### 1.1 Download the needed programs and files
+- [Visual Studio Code download](https://vscodium.com/) This link leads to VC Codium, a tracker-free version of the VS Code editor released by Microsoft. It also doesn't have all that annoying AI built in. Win-win.
+- [Git download](https://git-scm.com/downloads) This powers the version control back-end Git, which allows you to save edits with comments to GitHub for reference and backup.
+- [Profile Import](https://github.com/rj-ward/Git-for-Writers/blob/main/Doc%20Writer.code-profile) (Hit the Download Raw File button on the top of the code block to save this to your computer) I tweaked this profile from the provided Doc Editing profile from Microsoft. It has a more typical sans-serif font vs a monotype font for the editing interface, along with some handy plugins recommended by microsoft.
