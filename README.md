@@ -27,5 +27,11 @@ Version control like Git stores a copy of your past work for you, with the chang
 You're probably reading this on GitHub right now. It's a website, you know what to do. Basic account things. 2FA is highly recommended both here and everywhere it's available.
 [GitHub Account Setup - GitHub Docs](https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account)
 
-### 1.3 Install git and connect your GitHub account
+### 1.3 Install and set up git
 
+1. Run the installer for Git for your OS. For Windows, it will install a program called Git Bash. This lets you use commands as if you're on Linux, which is the typical dev platform. Macs use similar on their backend, so they can use a Terminal.
+2. Launch Git Bash for Windows or a Terminal on Mac or Linux.
+3. Set your User Name for any commits by copying and pasting this command in the terminal, replacing the "John Doe" example for your name. If you don't want to use your real name, it can be anything you'd like. ```git config --global user.name "John Doe"```
+4. Set the email you'd like to use to identify your commits by copying and pasting this command in the terminal, replacing the "John Doe" example for your name. ```git config --global user.email johndoe@example.com```
+
+Congrats! With VS Code you won't have to touch the command line again!
