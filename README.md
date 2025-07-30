@@ -35,3 +35,8 @@ You're probably reading this on GitHub right now. It's a website, you know what 
 4. Set the email you'd like to use to identify your commits by copying and pasting this command in the terminal, replacing the "John Doe" example for your name. ```git config --global user.email johndoe@example.com```
 
 Congrats! With VS Code you won't have to touch the command line again!
+
+### 1.4 Install and set up VS Code
+
+1. Download and run the installer for VS Codium for your OS.
+2. 
